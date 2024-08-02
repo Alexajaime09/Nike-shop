@@ -12,12 +12,12 @@ const App = ()=> {
 
    <Nav/> 
 
-<section className=" xl:px-6 padding-b">
-<Hero/>
+<section className=" xl:padding-l wide:padding-r  padding-b">
+<Hero />
 </section>
 
 <section className="padding">
-<PopularProducts/>
+<PopularProducts />
 </section>
 
 <section className="padding">
